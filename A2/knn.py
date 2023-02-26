@@ -20,7 +20,7 @@ correctP = 0
 incorrectP = 0
 
 #reading the data in a csv file
-with open('Question 3\\binary_points.csv', 'r') as csvfile:
+with open('binary_points.csv', 'r') as csvfile:
   reader = csv.reader(csvfile)
   for i, row in enumerate(reader):
       if i > 0: #skipping the header
