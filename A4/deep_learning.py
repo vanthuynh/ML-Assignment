@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Van Huynh
+# FILENAME: deep_learning.py
+# SPECIFICATION:
 # FOR: CS 4210- Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: an hour
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU CAN USE ANY PYTHON LIBRARY TO COMPLETE YOUR CODE.
@@ -93,6 +93,3 @@ pd.DataFrame(history.history).plot(figsize=(8, 5))
 plt.grid(True)
 plt.gca().set_ylim(0, 1) # set the vertical range to [0-1]
 plt.show()
-
-
-

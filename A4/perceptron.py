@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
-# AUTHOR: your name
-# FILENAME: title of the source file
-# SPECIFICATION: description of the program
+# AUTHOR: Van Huynh
+# FILENAME: perceptron.py
+# SPECIFICATION:
 # FOR: CS 4210- Assignment #4
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: an hour
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
@@ -58,14 +58,3 @@ for : #iterates over n
             #Example: "Highest Perceptron accuracy so far: 0.88, Parameters: learning rate=0.01, shuffle=True"
             #Example: "Highest MLP accuracy so far: 0.90, Parameters: learning rate=0.02, shuffle=False"
             #--> add your Python code here
-
-
-
-
-
-
-
-
-
-
-
